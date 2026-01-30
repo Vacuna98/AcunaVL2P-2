@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "53B1Rz6G6+Y=",
+  "success": true,
+  "projectFilePath": "/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/myapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/vanessaacuna/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/Users/vanessaacuna/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore/9.0.0/swashbuckle.aspnetcore.9.0.0.nupkg.sha512",
+    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.0/swashbuckle.aspnetcore.swagger.9.0.0.nupkg.sha512",
+    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.0/swashbuckle.aspnetcore.swaggergen.9.0.0.nupkg.sha512",
+    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.0/swashbuckle.aspnetcore.swaggerui.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/vanessaacuna/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied.",
+      "projectPath": "/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/myapi.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/myapi.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

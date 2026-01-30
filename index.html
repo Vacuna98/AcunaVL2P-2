@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/styles.css" />
+    <title>RPSLS</title>
+  </head>
+  <body>
+    <h1>"ROCK" "PAPER" "SCISSOR" "LIZARD" "SPOCK"</h1>
+
+    <div class="rulesBox">
+      <h3>Rules:</h3>
+      <h4>
+        In Rock, Paper, Scissors, Lizard, Spock, scissors cuts paper, paper
+        covers rock, and rock crushes lizard. Lizard poisons Spock, Spock
+        smashes scissors, and scissors decapitates lizard. Lizard eats paper,
+        paper disproves Spock, Spock vaporizes rock, and rock crushes scissors.
+      </h4>
+    </div>
+
+    <section class="middle-Grid">
+      <!-- Mode -->
+      <div class="modeBox">
+        <h2>Mode</h2>
+        <button id="OneGameBtn" type="button">One Game</button>
+        <button id="ThreeGameBtn" type="button">3 / 5</button>
+        <button id="FourGameBtn" type="button">4 / 7</button>
+      </div>
+
+      <!-- CPU or PvP Play Button-->
+      <div class="playBox">
+        <h2>Let's Play!</h2>
+        <button id="btnModeCpu" type="button">1 vs CPU</button>
+        <button id="btnModePvp" type="button">1 vs 1</button>
+
+        <!-- Player 1 -->
+        <div class="Player1">
+          <h3>Player 1</h3>
+          <p id="modeHint">Pick your move. The CPU will pick automatically.</p>
+          
+          <button id="btnP1Rock" type="button">Rock</button>
+          <button id="btnP1Paper" type="button">Paper</button>
+          <button id="btnP1Scissors" type="button">Scissors</button>
+          <button id="btnP1Lizard" type="button">Lizard</button>
+          <button id="btnP1Spock" type="button">Spock</button>
+        </div>
+
+        <div class="status">
+            <div>
+                <strong>P1 Pick:</strong>
+                <span id="p1Pick">-</span>
+            </div>
+            <div>
+                <strong>P2/CPU Pick:</strong>
+                <span id="p2Pick">-</span>
+            </div>
+        </div>
+
+        <p class="result" id="roundResult">Make a pick to start!</p>
+
+        <!-- Player 2 -->
+         
+
+             <div class="Player2" id="p2Section">
+                 <h3>Player 2</h3>
+                 <button id="btnP2Rock" type="button">Rock</button>
+                 <button id="btnP2Paper" type="button">Paper</button>
+                 <button id="btnP2Scissors" type="button">Scissors</button>
+                 <button id="btnP2Lizard" type="button">Lizard</button>
+                 <button id="btnP2Spock" type="button">Spock</button>
+                </div>
+                <p id="p2Hint">Waiting for Player 1...</p>
+                
+                <!-- Results -->
+                <div class="cpuResults">
+                    <h4>You chose:</h4>
+                    <h4>Player 2 / CPU Chose:</h4>
+                    <h4>Results:</h4>
+                </div>
+            </div>
+        
+
+      <!-- Score -->
+      <div class="scoreBox">
+        <h2>Score</h2>
+
+        <!--Player 1 Score -->
+        <h3>Player 1:</h3>
+        <span id="p1Score">0</span>
+
+        <!--Player 2 Score-->
+        <h3>Player 2/CPU:</h3>
+        <span id="p2Score">0</span>
+
+        <!-- Ties -->
+        <h3>Ties:</h3>
+        <span id="ties">0</span>
+
+        <!-- Reset Button -->
+        <button id="btnReset" type="button">Reset</button>
+
+        <!-- Play Again Button -->
+        <button id="btnPlayAgain" type="button">Play Again</button>
+      </div>
+    </section>
+    <script src="./scripts/script.js"></script>
+  </body>
+</html>

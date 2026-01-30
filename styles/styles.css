@@ -1,0 +1,58 @@
+body{
+    background-image: url("../Assets/bigBangTheory.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:5%;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    font-size: 5vh;
+}
+
+.rulesBox{
+    text-align: center;
+    color: white;
+    font-size:2vh;
+}
+
+.middle-Grid{
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    grid-template-rows: auto 1fr;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+.modeBox{
+    background-color:rgb(234, 47, 237);
+    grid-column: 1;
+    grid-row: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+
+}
+.playBox{
+    background-color: rgb(226, 43, 211);
+    grid-column: 2;
+    grid-row: 1 / 3;
+    border-radius: 25px;
+}
+
+.scoreBox{
+    background-color: rgb(240, 90, 233);
+    grid-column: 1;
+    grid-row: 2;
+    border-radius: 25px;
+}
+
+button{
+    background-color: rgb(7, 7, 23);
+    color: white;
+    border-radius: 9px;
+}
