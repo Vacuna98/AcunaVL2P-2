@@ -5,7 +5,8 @@ let aP2Score = 0;
 let aTies = 0;
 
 //--------------------------------- API Congif --------------------------
-const aCpuApiUrl ="https://rpsmyapiva-cgcgg7h7eua3ccfe.westus3-01.azurewebsites.net/RPS/ComputerRnd";
+const aCpuApiUrl ="https://blue-flower-0df9f551e.1.azurestaticapps.net/";
+
 
 
 ///------------------------------- DOM References --------------------------------------///

@@ -1,0 +1,12 @@
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/myapi
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/appsettings.json
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/myapi.dll
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/myapi.deps.json
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/myapi.runtimeconfig.json
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/myapi.pdb
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vanessaacuna/Documents/CodeStack/Level2/Projects/AcunaVL2P#2/myapi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
