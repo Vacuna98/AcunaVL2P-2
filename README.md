@@ -4,4 +4,4 @@ Vanessa Acuna
 
 Rock, Paper, Scissors, Lizaed, Spock
 
-Person Reviewing:
+Person Reviewing: Arianna Huntley - works well
